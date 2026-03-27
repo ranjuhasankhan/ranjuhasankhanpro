@@ -1,0 +1,22 @@
+{
+  "name": "ranju-portfolio",
+  "version": "1.0.0",
+  "description": "Ranju Hasan Khan - Full-Stack Developer & Peace Advocate Portfolio",
+  "scripts": {
+    "dev": "http-server",
+    "build": "echo 'No build required for static site'",
+    "start": "http-server -p 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "mern",
+    "peace-advocate"
+  ],
+  "author": "Ranju Hasan Khan",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
