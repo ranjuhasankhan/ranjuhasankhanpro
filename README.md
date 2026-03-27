@@ -2,7 +2,7 @@
 
 A modern, beautiful portfolio website showcasing my work as a Full-Stack Developer and Peace Advocate.
 
-## Overview nice
+## Overview nicee
 
 This portfolio features:
 - **Modern Design**: Dark theme with sleek animations
